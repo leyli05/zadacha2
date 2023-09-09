@@ -10,7 +10,8 @@ public class Main {
         } else {
             percent = 0;
         }
-        System.out.println(chet + amount + (amount / 100));}
+        System.out.println(chet + amount + (amount / 100));
+        System.out.println(amount/100); }
 
     }
 
