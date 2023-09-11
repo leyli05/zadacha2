@@ -6,7 +6,7 @@ public class Main {
         chet = 200;
         int percent;
         if (amount > 1000) {
-            percent = 10;
+            percent = amount / 100;
         } else {
             percent = 0;
         }
