@@ -1,5 +1,5 @@
 public class Main {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
         int amount;
         amount = 1100;
         int chet;
@@ -11,7 +11,8 @@ public class Main {
             percent = 0;
         }
         System.out.println(chet + amount + (amount / 100));
-        System.out.println(amount/100); }
-
+        System.out.println(amount / 100);
     }
+
+}
 
